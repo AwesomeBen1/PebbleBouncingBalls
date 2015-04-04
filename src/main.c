@@ -1,5 +1,5 @@
 // Bouncing Balls
-// Made by Ben Chapman-Kish on 2015-04-03 from 18:44 to 19:00
+// Made by Ben Chapman-Kish on 2015-04-03
 #include <pebble.h>
 // This would have been so much easier and quicker if cloudpebble had code completion or error detection.
 
