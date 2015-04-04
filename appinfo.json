@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ben.chapmankish@gmail.com",
+    "longName": "Bouncing Balls",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Bouncing Balls",
+    "uuid": "2989d8ab-aa3c-48c4-87f3-0cd7a51a18f2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
